@@ -1,10 +1,3 @@
-# Maintainer needed
-
-Back when I made this hack, I didn't expect so many people to actually
-use it. Unfortunately, I'm no longer able to maintain it on my own.
-Your help is always welcome.
-
----
 
 libinput-config allows you to configure your inputs in case your
 Wayland compositor doesn't have a certain config or has none.
